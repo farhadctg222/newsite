@@ -69,6 +69,7 @@ footer {
     height: 200px;
     background-color: aqua;
     margin: 10px;
+    border: 1px solid red;
 }
 .class{
     width: 100%;
