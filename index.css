@@ -10,7 +10,7 @@ nav{
 ul{
     list-style: none;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     background-color: rgb(2, 149, 115);
 }
 ul li a{
@@ -67,7 +67,7 @@ h2 {
 
 .btn-download {
     display: inline-block;
-    background-color: #333;
+    background-color: #e90363;
     color: #fff;
     padding: 10px 20px;
     text-decoration: none;
