@@ -23,6 +23,9 @@ ul li a{
 ul li:hover{
     background-color: red;
 }
+.active{
+    background-color: red;
+}
 
 
 header {
