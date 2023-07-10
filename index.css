@@ -10,7 +10,7 @@ nav{
 ul{
     list-style: none;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     background-color: rgb(2, 149, 115);
 }
 ul li a{
